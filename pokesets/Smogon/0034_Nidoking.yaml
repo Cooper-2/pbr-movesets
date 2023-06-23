@@ -1,0 +1,75 @@
+species: Nidoking
+setname: l-Mixed
+tags: [smogon]
+item: [Life Orb]
+ability: [Poison Point]
+moves:
+    - [Earth Power, Earthquake]
+    - [Ice Beam]
+    - [Thunderbolt]
+    - [Superpower, Shadow Ball, Taunt]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Rash
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 80, def: 0, spA: 252, spD: 0, spe: 176}
+---
+species: Nidoking
+setname: l-lead
+tags: [smogon]
+item: [Focus Sash]
+ability: [Poison Point]
+moves:
+    - [Earth Power]
+    - [Ice Beam, Toxic Spikes]
+    - [Stealth Rock]
+    - [Taunt]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+---
+species: Nidoking
+setname: l-special
+tags: [smogon]
+item: [Life Orb]
+ability: [Poison Point]
+moves:
+    - [Earth Power]
+    - [Ice Beam]
+    - [Thunderbolt]
+    - [Shadow Ball, Thunder]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 4, spA: 252, spD: 0, spe: 252}
+---
+species: Nidoking
+setname: l-physical
+tags: [smogon]
+item: [Life Orb]
+ability: [Poison Point]
+moves:
+    - [Earthquake]
+    - [Stone Edge]
+    - [Megahorn]
+    - [Sucker Punch]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 4, spA: 0, spD: 0, spe: 252}
