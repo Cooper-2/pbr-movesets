@@ -1,0 +1,208 @@
+species: Clefable
+setname: l-support
+tags: [smogon]
+item: [Leftovers]
+ability: [Magic Guard]
+moves:
+    - [Ice Beam, Encore]
+    - [Soft-Boiled, Wish]
+    - [Seismic Toss]
+    - [Thunder Wave, Heal Bell]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Calm
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 4, spA: 0, spD: 252, spe: 0}
+---
+species: Clefable
+setname: l-Stall
+tags: [smogon]
+item: [Leftovers]
+ability: [Magic Guard]
+moves:
+    - [Wish]
+    - [Protect]
+    - [Seismic Toss]
+    - [Toxic, Heal Bell]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Calm
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 0, spA: 0, spD: 252, spe: 4}
+---
+species: Clefable
+setname: l-calm
+tags: [smogon]
+item: [Life Orb]
+ability: [Magic Guard]
+moves:
+    - [Thunderbolt]
+    - [Ice Beam]
+    - [Calm Mind]
+    - [Soft-Boiled]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 160, atk: 252, def: 0, spA: 0, spD: 0, spe: 96}
+---
+species: Clefable
+setname: l-wallbreaker
+tags: [smogon]
+item: [Life Orb, Toxic Orb]
+ability: [Magic Guard]
+moves:
+    - [Double-Edge]
+    - [Fire Blast]
+    - [Grass Knot]
+    - [Soft-Boiled]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Quiet
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 4, atk: 252, def: 0, spA: 252, spD: 0, spe: 0}
+---
+species: Clefable
+setname: l-def
+tags: [smogon]
+item: [Leftovers]
+ability: [Magic Guard]
+moves:
+    - [Thunderbolt]
+    - [Ice Beam]
+    - [Calm Mind]
+    - [Soft-Boiled]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Bold
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 252, spA: 0, spD: 4, spe: 0}
+---
+species: Clefable
+setname: l-screens
+tags: [smogon]
+item: [Light Clay]
+ability: [Magic Guard]
+moves:
+    - [Seismic Toss]
+    - [Light Screen]
+    - [Reflect]
+    - [Wish, Soft-Boiled, Encore]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Calm
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 0, spA: 0, spD: 252, spe: 4}
+---
+species: Clefable
+setname: l-fear
+tags: [smogon]
+item: [Focus Sash]
+ability: [Magic Guard]
+moves:
+    - [Endeavor]
+    - [Protect]
+    - [Encore]
+    - [Thunder Wave, Toxic]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Hardy
+ivs: {hp: 0, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 252}
+---
+species: Clefable
+setname: l-sdef
+tags: [smogon]
+item: [Leftovers]
+ability: [Magic Guard]
+moves:
+    - [Seismic Toss]
+    - [Encore, Stealth Rock]
+    - [Thunder Wave, Heal Bell]
+    - [Soft-Boiled]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Calm
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 4, spA: 0, spD: 252, spe: 0}
+---
+species: Clefable
+setname: l-support2
+tags: [smogon]
+item: [Leftovers]
+ability: [Magic Guard]
+moves:
+    - [Thunder Wave, Stealth Rock, Protect]
+    - [Knock Off]
+    - [Seismic Toss]
+    - [Soft-Boiled]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: [Careful, Calm]
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 4, spA: 0, spD: 252, spe: 0}
+---
+species: Clefable
+setname: l-calm2
+tags: [smogon]
+item: [Leftovers]
+ability: [Magic Guard]
+moves:
+    - [Thunderbolt, Flamethrower]
+    - [Ice Beam]
+    - [Calm Mind]
+    - [Soft-Boiled]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Bold
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 252, spA: 4, spD: 0, spe: 0}
+---
+species: Clefable
+setname: l-wish
+tags: [smogon]
+item: [Leftovers]
+ability: [Magic Guard]
+moves:
+    - [Wish]
+    - [Protect]
+    - [Seismic Toss]
+    - [Knock Off, Encore]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Calm
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 4, spA: 0, spD: 252, spe: 0}
