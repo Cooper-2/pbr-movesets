@@ -1,0 +1,56 @@
+species: Vileplume
+setname: l-defense
+tags: [smogon]
+item: [Black Sludge]
+ability: [Chlorophyll]
+moves:
+    - [Energy Ball]
+    - [SLeep Powder]
+    - [Sludge Bomb]
+    - [Moonlight]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Bold
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 252, spA: 0, spD: 4, spe: 0}
+---
+species: Vileplume
+setname: l-sunny
+tags: [smogon]
+item: [Life Orb]
+ability: [Chlorophyll]
+moves:
+    - [Solar Beam]
+    - [Sunny Day]
+    - [Sludge Bomb]
+    - [Sleep Powder]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Modest
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 76, atk: 0, def: 0, spA: 252, spD: 0, spe: 180}
+---
+species: Vileplume
+setname: l-cleric
+tags: [smogon]
+item: [Leftovers]
+ability: [Chlorophyll]
+moves:
+    - [Energy Ball]
+    - [Sludge Bomb]
+    - [Aromatherapy]
+    - [Moonlight, Leech Seed, Sleep Powder]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Calm
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 4, spA: 0, spD: 252, spe: 0}
