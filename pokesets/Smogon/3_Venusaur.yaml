@@ -4,10 +4,10 @@ tags: [smogon]
 item: [Leftovers, Black Sludge]
 ability: [Overgrow]
 moves:
-    - [Leech Seed]
-    - [Sleep Powder]
     - [Leaf Storm, Grass Knot]
     - [Hidden Power, Sludge Bomb]
+    - [Leech Seed]
+    - [Sleep Powder]
 gender: [m, f]
 happiness: 255
 biddable: True
@@ -16,3 +16,22 @@ ball: [Ultra]
 nature: Calm
 ivs: {hp: 31, atk: 30, def: 31, spA: 30, spD: 31, spe: 30}
 evs: {hp: 252, atk: 0, def: 0, spA: 24, spD: 176, spe: 56}
+---
+species: Venusaur
+setname: l-swordsdance
+tags: [smogon]
+item: [Life Orb]
+ability: [Overgrow]
+moves:
+    - [Swords Dance]
+    - [Sleep Powder]
+    - [Power Whip]
+    - [Earthquake]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
