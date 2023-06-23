@@ -44,7 +44,7 @@ ability: [Torrent]
 moves:
     - [Water Spout, Hydro Pump]
     - [Ice Beam]
-    - [Hidden Power]
+    - [Hidden Power] #Grass
     - [Surf, Rapid Spin]
 gender: [m, f]
 happiness: 255
