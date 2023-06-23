@@ -114,6 +114,7 @@ evs: {hp: 252, atk: 0, def: 0, spA: 0, spD: 252, spe: 4}
 ---
 species: Clefable
 setname: l-fear
+level: 2
 tags: [smogon]
 item: [Focus Sash]
 ability: [Magic Guard]
