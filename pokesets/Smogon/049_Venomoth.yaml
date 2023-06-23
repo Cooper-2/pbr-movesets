@@ -1,0 +1,75 @@
+species: Venomoth
+setname: l-lifeorb
+tags: [smogon]
+item: [Life Orb]
+ability: [Tinted Lens]
+moves:
+    - [Bug Buzz]
+    - [Psychic, Substitute]
+    - [Sleep Powder]
+    - [Roost]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 8, atk: 0, def: 0, spA: 248, spD: 0, spe: 252}
+---
+species: Venomoth
+setname: l-choice
+tags: [smogon]
+item: [Choice Specs]
+ability: [Tinted Lens]
+moves:
+    - [Bug Buzz]
+    - [Psychic]
+    - [U-Turn]
+    - [Sleep Powder]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 4, spA: 252, spD: 0, spe: 252}
+---
+species: Venomoth
+setname: l-support
+tags: [smogon]
+item: [Leftovers]
+ability: [Tinted Lens]
+moves:
+    - [Toxic Spikes]
+    - [Sleep Powder]
+    - [Bug Buzz]
+    - [Psychic, Roost]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 156, atk: 0, def: 0, spA: 120, spD: 0, spe: 232}
+---
+species: Venomoth
+setname: l-status
+tags: [smogon]
+item: [Leftovers, Wide Lens]
+ability: [Tinted Lens]
+moves:
+    - [Bug Buzz]
+    - [Psychic, Roost]
+    - [Sleep Powder]
+    - [Stun Spore]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 4, spA: 252, spD: 0, spe: 252}
