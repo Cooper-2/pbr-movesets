@@ -5,7 +5,7 @@ item: [Life Orb]
 ability: [Static]
 moves:
     - [Thunderbolt]
-    - [Hiden Power]
+    - [Hiden Power] #Ice
     - [Nasty Plot]
     - [Encore, Focus Blast]
 gender: [m, f]
