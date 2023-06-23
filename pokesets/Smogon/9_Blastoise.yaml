@@ -1,0 +1,56 @@
+species: Blastoise
+setname: l-utility
+tags: [smogon]
+item: [Leftovers]
+ability: [Torrent]
+moves:
+    - [Surf]
+    - [Ice Beam, Foresight]
+    - [Rapid Spin]
+    - [Roar, Rest]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Bold
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 0, spA: 4, spD: 252, spe: 0}
+---
+species: Blastoise
+setname: l-RestTalk
+tags: [smogon]
+item: [Leftovers]
+ability: [Torrent]
+moves:
+    - [Surf]
+    - [Rest]
+    - [Sleep Talk]
+    - [Roar]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Bold
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 252, spA: 4, spD: 0, spe: 0}
+---
+species: Blastoise
+setname: l-Choice
+tags: [smogon]
+item: [Choice Specs, Choice Scarf]
+ability: [Torrent]
+moves:
+    - [Water Spout, Hydro Pump]
+    - [Ice Beam]
+    - [Hidden Power]
+    - [Surf, Rapid Spin]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: [Timid, Modest]
+ivs: {hp: 30, atk: 31, def: 31, spA: 30, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 4, spA: 252, spD: 0, spe: 252}
