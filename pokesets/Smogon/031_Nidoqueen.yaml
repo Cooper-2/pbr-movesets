@@ -1,0 +1,56 @@
+species: Nidoqueen
+setname: l-Def
+tags: [smogon]
+item: [Black Sludge]
+ability: [Poison Point]
+moves:
+    - [Earthquake, Earth Power]
+    - [Ice Beam, Flamethrower, Thunderbolt]
+    - [Protect, Stealth Rock]
+    - [Toxic Spikes]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Relaxed
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 252, spA: 4, spD: 0, spe: 0}
+---
+species: Sandslash
+setname: l-SDef
+tags: [smogon]
+item: [Black Sludge]
+ability: [Poison Point]
+moves:
+    - [Earthquake, Earth Power]
+    - [Ice Beam, Flamethrower, Thunderbolt]
+    - [Protect, Stealth Rock]
+    - [Toxic Spikes]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 
+ball: [Ultra]
+nature: 
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 0, spA: 4, spD: 252, spe: 0}
+---
+species: Nidoqueen
+setname: l-Support
+tags: [smogon]
+item: [Leftovers]
+ability: [Poison Point]
+moves:
+    - [Earth Power]
+    - [Stealth Rock]
+    - [Ice Beam]
+    - [Toxic Spikes, Roar]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Bold
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 252, spA: 0, spD: 4, spe: 0}
