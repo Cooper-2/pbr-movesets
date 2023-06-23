@@ -1,0 +1,75 @@
+Xspecies: Beedrill
+setname: l-SDance
+tags: [smogon]
+item: [Life Org]
+ability: [Swarm]
+moves:
+    - [X-Scissor]
+    - [Brick Break]
+    - [Swords Dance]
+    - [Baton Pass, Poison Jab, Substitute]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}
+---
+species: Beedrill
+setname: l-Choice
+tags: [smogon]
+item: [Choice Scarf]
+ability: [Swarm]
+moves:
+    - [U-turn]
+    - [X-Scissor]
+    - [Brick Break]
+    - [Poison Jab, Pursuit]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}
+---
+species: Beedrill
+setname: l-Baton
+tags: [smogon]
+item: [Liechi Berry, Salac Berry]
+ability: [Swarm]
+moves:
+    - [X-Scissor]
+    - [Baton Pass]
+    - [Agility, Swords Dance]
+    - [Substitute]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 244, atk: 0, def: 0, spA: 0, spD: 12, spe: 252}
+---
+species: Beedrill
+setname: l-Toxic
+tags: [smogon]
+item: [Focus Sash]
+ability: [Swarm]
+moves:
+    - [X-Scissor, U-Turn]
+    - [Endeavor]
+    - [Toxic Spikes]
+    - [Protect]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: [Naive, Hasty]
+ivs: {hp: 0, atk: 31, def: 0, spA: 31, spD: 0, spe: 31}
+evs: {hp: 252, atk: 0, def: 0, spA: 0, spD: 0, spe: 252}
