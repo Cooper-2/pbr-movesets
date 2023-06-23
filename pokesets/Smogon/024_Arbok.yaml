@@ -1,0 +1,37 @@
+species: Arbok
+setname: l-glare
+tags: [smogon]
+item: [Leftovers]
+ability: [Intimidate]
+moves:
+    - [Gunk Shot, Poison Jab]
+    - [Earthquake]
+    - [Seed Bomb, Crunch]
+    - [Glare]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Impish
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 4, def: 252, spA: 0, spD: 0, spe: 0}
+---
+species: Arbok
+setname: l-switcheroo
+tags: [smogon]
+item: [Choice Band]
+ability: [Intimidate]
+moves:
+    - [Gunk Shot, Poison Jab]
+    - [Earthquake]
+    - [Seed Bomb, Crunch]
+    - [Switcheroo]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
