@@ -26,7 +26,7 @@ moves:
     - [Swords Dance]
     - [Sleep Powder]
     - [Power Whip]
-    - [Earthquake]
+    - [Earthquake, Return]
 gender: [m, f]
 happiness: 255
 biddable: True
@@ -35,3 +35,117 @@ ball: [Ultra]
 nature: Jolly
 ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
 evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+---
+species: Venusaur
+setname: l-Special
+tags: [smogon]
+item: [Life Orb]
+ability: [Overgrow]
+moves:
+    - [Leaf Storm]
+    - [Sludge Bomb]
+    - [Sleep Powder]
+    - [Synthesis]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+---
+species: Venusaru
+setname: l-Defense
+tags: [smogon]
+item: [Leftovers]
+ability: [Overgrow]
+moves:
+    - [Grass Knot, Leaf Storm]
+    - [Sludge Bomb]
+    - [Sleep Powder, Roar]
+    - [Synthesis, Leech Seed]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Bold
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 164, spA: 0, spD: 0, spe: 92}
+---
+species: Venusaur
+setname: l-SDefense
+tags: [smogon]
+item: [Leftovers]
+ability: [Overgrow]
+moves:
+    - [Power Whip]
+    - [Sludge Bomb]
+    - [Sleep Powder, Roar]
+    - [Leech Seed, Synthesis]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Sassy
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 0, spA: 0, spD: 240, spe: 16}
+---
+species: Venusaur
+setname: l-Mixed
+tags: [smogon]
+item: [Life Orb]
+ability: [Overgrow]
+moves:
+    - [Sludge Bomb]
+    - [Power Whip]
+    - [Sleep Powder]
+    - [Synthesis, Earthquake]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Hasty
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 136, def: 0, spA: 120, spD: 0, spe: 252}
+---
+species: Venusaur
+setname: l-Choice
+tags: [smogon]
+item: [Choice Scarf]
+ability: [Overgrow]
+moves:
+    - [Leaf Storm]
+    - [Sludge Bomb]
+    - [Sleep Powder]
+    - [Hidden Power]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 30, spe: 31}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+---
+species: Venusaur
+setname: l-SubSeed
+tags: [smogon]
+item: [Leftovers]
+ability: [Overgrow]
+moves:
+    - [Sludge Bomb, Energy Ball]
+    - [Substitute]
+    - [Leech Seed]
+    - [Sleep Powder]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Calm
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 128, spA: 0, spD: 128, spe: 0}
