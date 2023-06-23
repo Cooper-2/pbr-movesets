@@ -1,0 +1,37 @@
+species: Dugtrio
+setname: l-physical
+tags: [smogon]
+item: [Life Orb, Choice Band]
+ability: [Arena Trap]
+moves:
+    - [Earthquake]
+    - [Sucker Punch, Night Slash]
+    - [Stone Edge]
+    - [Substitute, Pursuit]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: [Jolly, Adamant]
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+---
+species: Dugtrio
+setname: l-choice
+tags: [smogon]
+item: [Choice Scarf]
+ability: [Arena Trap]
+moves:
+    - [Earthquake]
+    - [Stone Edge]
+    - [Night Slash, Sucker Punch]
+    - [Aerial Ace]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 44, spe: 212}
