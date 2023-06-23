@@ -1,0 +1,95 @@
+species: Alakazam
+setname: l-choice
+tags: [smogon]
+item: [Choice Specs]
+ability: [Synchonize]
+moves:
+    - [Psychic]
+    - [Signal Beam, Grass Knot]
+    - [Focus Blast]
+    - [Trick, Shadow Ball]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: [Timid, Modest]
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+---
+species: Alakazam
+setname: l-sub
+tags: [smogon]
+item: [Life Orb]
+ability: [Synchronize]
+moves:
+    - [Substitute]
+    - [Psychic]
+    - [Focus Blast]
+    - [Shadow Ball, Signal Beam]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+---
+species: Alakazam
+setname: l-calm
+tags: [smogon]
+item: [Life Orb]
+ability: [Synchronize]
+moves:
+    - [Psychic]
+    - [Focus Blast, Signal Beam]
+    - [Grass Knot, Shadow Ball, Encore]
+    - [Calm Mind]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: [Timid, Modest]
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+---
+species: Alakazam
+setname: l-attack
+tags: [smogon]
+item: [Focus Sash]
+ability: [Inner Focus]
+moves:
+    - [Psychic]
+    - [Focus Blast, Counter]
+    - [Signal Beam]
+    - [Taun]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: [Modest, Timid]
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+---
+species: Alakazam
+setname: l-screens
+tags: [smogon]
+item: [light clay]
+ability: [Inner Focus]
+moves:
+    - [Psychic]
+    - [Encore]
+    - [Reflect]
+    - [Light Screen]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 40, spA: 0, spD: 0, spe: 216}
+---
