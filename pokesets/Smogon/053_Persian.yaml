@@ -1,0 +1,75 @@
+species: Persian
+setname: l-nasty
+tags: [smogon]
+item: [Life Orb, Lum Berry]
+ability: [Technician]
+moves:
+    - [Swift]
+    - [Water Pulse]
+    - [Nasty Plot]
+    - [Hypnosis]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
+---
+species: Persian
+setname: l-physical
+tags: [smogon]
+item: [Silk Scarf, Life Orb]
+ability: [Technician]
+moves:
+    - [Fake Out]
+    - [U-Turn]
+    - [Hypnosis]
+    - [Bite, Return, Taunt]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+---
+species: Persian
+setname: l-switch
+tags: [smogon]
+item: [Choice Band]
+ability: [Limber]
+moves:
+    - [Return]
+    - [U-Turn]
+    - [Switcheroo]
+    - [Night Slash, Hypnosis]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 
+ball: [Ultra]
+nature: 
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+---
+species: Persian
+setname: l-weather
+tags: [smogon]
+item: [Damp Rock, Heat Rock]
+ability: [Limber]
+moves:
+    - [Rain Dance, Sunny Day]
+    - [U-Turn]
+    - [Hypnosis]
+    - [Taunt]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 4, def: 0, spA: 0, spD: 0, spe: 252}
