@@ -1,0 +1,56 @@
+species: Golduck
+setname: l-encore
+tags: [smogon]
+item: [Leftovers]
+ability: [Cloud Nine]
+moves:
+    - [Surf, Hydro Pump]
+    - [Hidden Power] #Grass
+    - [Ice Beam]
+    - [Encore]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Timid
+ivs: {hp: 30, atk: 31, def: 31, spA: 30, spD: 31, spe: 31}
+evs: {hp: 32, atk: 0, def: 0, spA: 252, spD: 0, spe: 224}
+---
+species: Golduck
+setname: l-Calm
+tags: [smogon]
+item: [Life Orb, Leftovers]
+ability: [Cloud Nine]
+moves:
+    - [Calm Mind]
+    - [Hydro Pump, Surf]
+    - [Ice Beam, Psychic]
+    - [Hidden Power, Encore] #Grass
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 
+ball: [Ultra]
+nature: 
+ivs: {hp: 30, atk: 31, def: 31, spA: 30, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 0, spA: 0, spD: 0, spe: 0}
+---
+species: Golduck
+setname: l-attack
+tags: [smogon]
+item: [Life Orb, Choice Specs]
+ability: [Cloud Nine]
+moves:
+    - [Hydro Pump, Surf]
+    - [Ice Beam]
+    - [Hidden Power] #Grass
+    - [Psychic, Cross Chop]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: [Timid, Mild]
+ivs: {hp: 30, atk: 31, def: 31, spA: 30, spD: 31, spe: 31}
+evs: {hp: 4, atk: 0, def: 0, spA: 252, spD: 0, spe: 252}
