@@ -1,0 +1,132 @@
+species: Charizard
+setname: l-Special
+tags: [smogon]
+item: [Life Orb]
+ability: [Blaze]
+moves:
+    - [Fire Blast, Flamethrower]
+    - [Air Slash]
+    - [Hidden Power, Focus Blast]
+    - [Roost]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Timid
+ivs: {hp: 30, atk: 31, def: 31, spA: 30, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 4, spA: 252, spD: 0, spe: 252}
+---
+species: Charizard
+setname: l-Sunny
+tags: [smogon]
+item: [Life Orb, Heat Rock]
+ability: [Blaze]
+moves:
+    - [Fire Blast, Flamethrower]
+    - [Solar Beam]
+    - [Roost, Air Slash]
+    - [Sunny Day]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 4, spA: 252, spD: 0, spe: 252}
+---
+species: Charizard
+setname: l-DDance
+tags: [smogon]
+item: [Life Orb]
+ability: [Blaze]
+moves:
+    - [Flare Blitz]
+    - [Earthquake]
+    - [Thunder Punch]
+    - [Dragon Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: [Jolly, Adamant]
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 4, spA: 0, spD: 0, spe: 252}
+---
+species: Charizard
+setname: l-SDance
+tags: [smogon]
+item: []Life Orb
+ability: [Blaze]
+moves:
+    - [Flare Blitz, Fire Punch]
+    - [Earthquake]
+    - [Thunder Punch]
+    - [Swords Dance]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 4, spA: 0, spD: 0, spe: 252}
+---
+species: Charizard
+setname: l-BDrum
+tags: [smogon]
+item: [Salac Berry]
+ability: [Blaze]
+moves:
+    - [Fire Punch]
+    - [Thunder Punch, Earthquake]
+    - [Belly Drum]
+    - [Substitute]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 4, spA: 0, spD: 0, spe: 252}
+---
+species: Charizard
+setname: l-Toxic
+tags: [smogon]
+item: [Leftovers]
+ability: [Blaze]
+moves:
+    - [Flamethrower]
+    - [Substitute]
+    - [Toxic]
+    - [Roost]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Timid
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 248, atk: 0, def: 0, spA: 8, spD: 0, spe: 252}
+---
+species: Charizard
+setname: l-Choice
+tags: [smogon]
+item: [Choice Specs]
+ability: [Blaze]
+moves:
+    - [Fire Blast]
+    - [Air Slash]
+    - [Hidden Power]
+    - [Focus Blast]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 
+ball: [Ultra]
+nature: 
+ivs: {hp: 30, atk: 31, def: 31, spA: 30, spD: 31, spe: 31}
+evs: {hp: 0, atk: 0, def: 4, spA: 252, spD: 0, spe: 252}
