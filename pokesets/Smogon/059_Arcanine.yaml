@@ -1,0 +1,151 @@
+species: Arcanine
+setname: l-attack
+tags: [smogon]
+item: [Life Orb, Leftovers]
+ability: [Intimidate]
+moves:
+    - [Flare Blitz]
+    - [Extreme Speed]
+    - [Morning Sun]
+    - [Toxic, Will-O-Wisp]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: [Adamant, Jolly]
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 120, atk: 152, def: 0, spA: 0, spD: 0, spe: 236}
+---
+species: Arcanine
+setname: l-sdef
+tags: [smogon]
+item: [Leftovers]
+ability: [Intimidate]
+moves:
+    - [Flare Blitz]
+    - [Extreme Speed]
+    - [Toxic]
+    - [Morning Sun]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Careful
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 4, spA: 0, spD: 252, spe: 0}
+---
+species: Arcanine
+setname: l-Lorb
+tags: [smogon]
+item: [Life Orb]
+ability: [Intimidate]
+moves:
+    - [Flare Blitz]
+    - [Thunder Fang, Hidden Power]
+    - [Extreme Speed]
+    - [Morning Sun]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 
+ball: [Ultra]
+nature: 
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 4, spA: 0, spD: 0, spe: 252}
+---
+species: Arcanine
+setname: l-choice
+tags: [smogon]
+item: [Choice Band]
+ability: [Jolly, Adamant]
+moves:
+    - [Flare Blitz]
+    - [Extreme Speed]
+    - [Thunder Fang]
+    - [Morning Sun, Iron Head]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: [Jolly, Adamant]
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 0, atk: 252, def: 0, spA: 0, spD: 4, spe: 252}
+---
+species: Arcanine
+setname: l-attack
+tags: [smogon]
+item: [Lum Berry]
+ability: [Intimidate]
+moves:
+    - [Flare Blitz]
+    - [Extreme Speed]
+    - [Toxic]
+    - [Hidden Power, Overheat] #Grass
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Adamant
+ivs: {hp: 30, atk: 31, def: 31, spA: 30, spD: 31, spe: 31}
+evs: {hp: 192, atk: 252, def: 0, spA: 0, spD: 0, spe: 64}
+---
+species: Arcanine
+setname: l-defense
+tags: [smogon]
+item: [Leftovers]
+ability: [Intimidate]
+moves:
+    - [Flare Blitz]
+    - [Extreme Speed]
+    - [Will-O-Wisp]
+    - [Morning Sun]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Impish
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 228, spA: 0, spD: 0, spe: 28}
+---
+species: Arcanine
+setname: l-RestTalk
+tags: [smogon]
+item: [Leftovers]
+ability: [Intimidate]
+moves:
+    - [Flare Blitz]
+    - [Rest]
+    - [Sleep Talk]
+    - [Roar]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Impish
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 0, def: 252, spA: 0, spD: 0, spe: 4}
+---
+species: Arcanine
+setname: l-Special
+tags: [smogon]
+item: [Life Orb]
+ability: [Intimidate]
+moves:
+    - [Fire Blast, Flamethrower]
+    - [Hidden Power] #Grass/Electric
+    - [Morning Sun]
+    - [Dragon Pulse, Overheat]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: [Modest, Timid]
+ivs: [{hp: 30, atk: 31, def: 31, spA: 30, spD: 31, spe: 31},{hp: 31, atk: 31, def: 31, spA: 30, spD: 31, spe: 31}]
+evs: {hp: 0, atk: 0, def: 0, spA: 252, spD: 4, spe: 252}
