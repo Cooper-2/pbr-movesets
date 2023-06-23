@@ -1,0 +1,37 @@
+species: Parasect
+setname: l-status
+tags: [smogon]
+item: [Leftovers]
+ability: [Dry Skin]
+moves:
+    - [Seed Bomb, X-Scissor]
+    - [Spore]
+    - [Stun Spore]
+    - [Synthesis]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Careful
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 248, atk: 0, def: 8, spA: 0, spD: 252, spe: 0}
+---
+species: Parasect
+setname: l-physical
+tags: [smogon]
+item: [Leftovers, Life Orb]
+ability: [Dry Skin]
+moves:
+    - [Seed Bomb, Brick Break]
+    - [X-Scissor]
+    - [Pursuit, Synthesis]
+    - [Spore]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 248, atk: 252, def: 0, spA: 0, spD: 8, spe: 0}
