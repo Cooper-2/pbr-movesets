@@ -1,0 +1,94 @@
+species: Poliwrath
+setname: l-Subpunch
+tags: [smogon]
+item: [Leftovers]
+ability: [Water Absorb]
+moves:
+    - [Focus Punch]
+    - [Substitute]
+    - [Waterfall, Ice Punch]
+    - [Encore, Bulk Up]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 252, def: 4, spA: 0, spD: 0, spe: 0}
+---
+species: Poliwrath
+setname: l-bulk
+tags: [smogon]
+item: [Leftovers]
+ability: [Water Absorb]
+moves:
+    - [Waterfall]
+    - [Bulk Up]
+    - [Ice Punch, Brick Break, Return]
+    - [Hypnosis, Encore, Substitute]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Adamant
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 252, def: 0, spA: 0, spD: 0, spe: 4}
+---
+species: Poliwrath
+setname: l-restalk
+tags: [smogon]
+item: [Leftovers, Life Orb]
+ability: [Water Absorb]
+moves:
+    - [Waterfall]
+    - [Brick Break, Rock Slide, Ice Punch]
+    - [Sleep Talk]
+    - [Rest]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Impish
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 4, def: 252, spA: 0, spD: 0, spe: 0}
+---
+species: Poliwrath
+setname: l-belly
+tags: [smogon]
+item: [Salac Berry]
+ability: [Water Absorb]
+moves:
+    - [Waterfall]
+    - [Return]
+    - [Belly Drum]
+    - [Substitute]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Jolly
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 4, atk: 252, def: 0, spA: 0, spD: 0, spe: 252}
+---
+species: Poliwrath
+setname: l-attack
+tags: [smogon]
+item: [Leftovers]
+ability: [Water Absorb]
+moves:
+    - [Waterfall]
+    - [Bulk Up]
+    - [Rest]
+    - [Sleep Talk]
+gender: [m, f]
+happiness: 255
+biddable: True
+rarity: 1
+ball: [Ultra]
+nature: Careful
+ivs: {hp: 31, atk: 31, def: 31, spA: 31, spD: 31, spe: 31}
+evs: {hp: 252, atk: 4, def: 0, spA: 0, spD: 252, spe: 0}
